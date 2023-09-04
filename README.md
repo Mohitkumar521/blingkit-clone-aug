@@ -1,1 +1,1 @@
-# blingkit-clone-aug
+# blinkit-clone-aug
